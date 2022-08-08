@@ -29,13 +29,13 @@ description: >-                        # used by seo meta and the atom feed
   Interlynk.io is fully managed platform for continuous SBOM compliance that balances privacy with disclosure and is built to scale. We are in stealth right now.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://interlynk-io.github.io/blog/'
+url: 'https://interlynk-io.github.io/blog'
 
 github:
   username: riteshnoronha             # change to your github username
 
 twitter:
-  username: interlynkrcn            # change to your twitter username
+  username: InterlynkIo            # change to your twitter username
 
 social:
   # Change to your full name.
